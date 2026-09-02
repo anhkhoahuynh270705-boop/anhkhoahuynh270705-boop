@@ -11,7 +11,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 - I'm a **Full-stack Developer**
 - I build modern frontend applications with **React, TypeScript, JavaScript, HTML & SCSS**
@@ -25,9 +25,9 @@
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
-### 🎨 Frontend
+### Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react" />
@@ -51,7 +51,7 @@
 
 ---
 
-### 🗄️ Database
+### Database
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
@@ -75,7 +75,7 @@
 
 ---
 
-## 💡 What I Do
+## What I Do
 
 ```text
 Frontend Development
