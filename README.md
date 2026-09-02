@@ -1,44 +1,105 @@
-<h1 align="center">Hi 👋, I'm Khoa</h1>
+<h1 align="center">Hi 👋, I'm Huỳnh Anh khoa</h1>
 
 <h3 align="center">
-  A Front-end Developer from Vietnam ❤️
+  Full-stack Developer | React & Spring Boot
 </h3>
 
----
-
-### 👨‍💻 About me
-
-- 🌱 I'm currently learning **React, JavaScript, TypeScript**
-- 💻 I'm working as a **Front-end Developer**
-- 📫 How to reach me: **your-email@gmail.com**
-- ⚡ Fun fact: I love coding and UI design
-
----
-
-### 🌐 Connect with me
-
-<p>
-  <a href="https://www.linkedin.com/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-
-  <a href="https://www.instagram.com/">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-  </a>
+<p align="center">
+  I build modern, responsive web applications with a strong focus on
+  clean UI, maintainable code, and scalable backend systems.
 </p>
 
 ---
 
-### 🛠 Languages and Tools
+## 👨‍💻 About Me
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,git,github,figma,sass,mysql,mongodb" />
-</p>
+- 💻 I'm a **Full-stack Developer**
+- ⚛️ I build modern frontend applications with **React, TypeScript, JavaScript, HTML & SCSS**
+- ☕ I develop backend applications and REST APIs with **Java & Spring Boot**
+- 🟢 I also work with **Node.js**
+- 🗄️ I work with relational and NoSQL databases such as **MySQL & MongoDB**
+- 🎨 I use **Figma** for UI design and translating designs into responsive interfaces
+- 🔧 I use **Git & GitHub** for version control and team collaboration
+- 🚀 I'm interested in building scalable, maintainable and user-friendly web applications
+- 📚 I continuously improve my knowledge of **Frontend, Backend, System Design and Software Architecture**
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Tech Stack
 
-![Khoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+### 🎨 Frontend
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react" />
+</p>
+
+**Technologies:**
+
+`HTML5` · `SCSS` · `JavaScript` · `TypeScript` · `React`
+
+---
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs" />
+</p>
+
+**Technologies:**
+
+`Java` · `Spring Boot` · `Node.js` · `REST API`
+
+---
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+**Databases:**
+
+`MySQL` · `MongoDB`
+
+---
+
+### 🛠 Tools & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
+</p>
+
+**Tools:**
+
+`Git` · `GitHub` · `Figma` · `VS Code`
+
+---
+
+## 💡 What I Do
+
+```text
+Frontend Development
+├── Responsive Web Design
+├── React Applications
+├── Reusable Components
+├── REST API Integration
+├── UI Implementation from Figma
+├── JavaScript / TypeScript
+└── SCSS Architecture
+
+Backend Development
+├── Java
+├── Spring Boot
+├── RESTful API Development
+├── Business Logic
+├── Database Integration
+├── MySQL
+└── MongoDB
+
+Development Workflow
+├── Git
+├── GitHub
+├── Branching
+├── Pull Requests
+├── Code Review
+└── Team Collaboration
