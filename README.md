@@ -13,15 +13,15 @@
 
 ## 👨‍💻 About Me
 
-- 💻 I'm a **Full-stack Developer**
-- ⚛️ I build modern frontend applications with **React, TypeScript, JavaScript, HTML & SCSS**
-- ☕ I develop backend applications and REST APIs with **Java & Spring Boot**
-- 🟢 I also work with **Node.js**
-- 🗄️ I work with relational and NoSQL databases such as **MySQL & MongoDB**
-- 🎨 I use **Figma** for UI design and translating designs into responsive interfaces
-- 🔧 I use **Git & GitHub** for version control and team collaboration
-- 🚀 I'm interested in building scalable, maintainable and user-friendly web applications
-- 📚 I continuously improve my knowledge of **Frontend, Backend, System Design and Software Architecture**
+- I'm a **Full-stack Developer**
+- I build modern frontend applications with **React, TypeScript, JavaScript, HTML & SCSS**
+- I develop backend applications and REST APIs with **Java & Spring Boot**
+- I also work with **Node.js**
+- I work with relational and NoSQL databases such as **MySQL & MongoDB**
+- I use **Figma** for UI design and translating designs into responsive interfaces
+- I use **Git & GitHub** for version control and team collaboration
+- I'm interested in building scalable, maintainable and user-friendly web applications
+- I continuously improve my knowledge of **Frontend, Backend, System Design and Software Architecture**
 
 ---
 
