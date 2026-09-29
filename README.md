@@ -1,10 +1,13 @@
 <p align="center">
   <img
-  src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eXZ1cGpvc3J3bHR1eWc5ZXphYXpmOThlM2hkYmhscTMzdHQ4eXNyaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/137EaR4vAOCn1S/200.webp"
+src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JnejR0NWpuNGt3dTc5YmZlcW1zMW1teGo4d2N4NWt5MXVyZTY2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif"
     width="850"
     alt="Developer coding animation"
   />
 </p>
+
+
+
 
 <h1 align="center">Hi 👋, I'm Huỳnh Anh Khoa</h1>
 
