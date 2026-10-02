@@ -194,12 +194,12 @@ I believe good software should be:
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=anhkhoahuynh270705-boop&show_icons=true&theme=tokyonight&hide_border=true"
     height="180"
   />
 
 <img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhkhoahuynh270705-boop&layout=compact&theme=tokyonight&hide_border=true"
  height="180"
 />
 
@@ -211,7 +211,7 @@ I believe good software should be:
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=anhkhoahuynh270705-boop&theme=tokyo-night&hide_border=true"
     width="95%"
   />
 </p>
@@ -238,7 +238,7 @@ Scalable Web Applications
 
 <p align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/anhkhoahuynh270705-boop">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
