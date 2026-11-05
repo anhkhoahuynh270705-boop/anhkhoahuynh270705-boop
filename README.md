@@ -23,10 +23,9 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JnejR0NWpuNGt3dTc5YmZlc
 ## 👨‍💻 About Me
 
 * 🚀 I'm a **Full-stack Developer**
-* ⚛️ I build modern frontend applications with **React, TypeScript, JavaScript, HTML & SCSS**
+* ⚛️ I build modern frontend applications with **Angular, TypeScript, JavaScript, HTML & SCSS**
 * ☕ I develop backend applications and REST APIs with **Java & Spring Boot**
-* 🟢 I also work with **Node.js**
-* 🗄️ I work with relational and NoSQL databases such as **MySQL & MongoDB**
+* 🗄️ I work with relational and NoSQL databases such as **MongoDB & PostgreSQL**
 * 🎨 I use **Figma** for UI design and translating designs into responsive interfaces
 * 🔧 I use **Git & GitHub** for version control and team collaboration
 * 📐 I'm interested in building scalable, maintainable and user-friendly web applications
@@ -44,7 +43,7 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JnejR0NWpuNGt3dTc5YmZlc
 
 **Technologies**
 
-`HTML5` · `SCSS` · `JavaScript` · `TypeScript` · `React`
+`HTML5` · `SCSS` · `JavaScript` · `TypeScript` · `Angular`
 
 ---
 
@@ -56,7 +55,7 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JnejR0NWpuNGt3dTc5YmZlc
 
 **Technologies**
 
-`Java` · `Spring Boot` · `Node.js` · `REST API`
+`Java` · `Spring Boot` · `REST API`
 
 ---
 
@@ -68,7 +67,7 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JnejR0NWpuNGt3dTc5YmZlc
 
 **Databases**
 
-`MySQL` · `MongoDB`
+`PostgreSQL` · `MongoDB`
 
 ---
 
@@ -236,7 +235,7 @@ Scalable Web Applications
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://www.linkedin.com/in/huynh-anh-khoa-dev/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
