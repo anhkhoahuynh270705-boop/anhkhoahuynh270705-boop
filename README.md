@@ -7,7 +7,7 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JnejR0NWpuNGt3dTc5YmZlc
 </p>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&pause=1000&center=true&vCenter=true&width=435&lines=I'm+Hu%E1%BB%B3nh+Anh+Khoa;I'm+a+FullStack+developer" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&center=true&vCenter=true&width=1000&height=50&lines=I'm+Hu%E1%BB%B3nh+Anh+Khoa;I'm+a+FullStack+developer)](https://git.io/typing-svg)
 
 <p align="center">
   I build modern, responsive web applications with a strong focus on
