@@ -7,13 +7,7 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JnejR0NWpuNGt3dTc5YmZlc
 </p>
 
 
-
-
-<h1 align="center">Hi 👋, I'm Huỳnh Anh Khoa</h1>
-
-<h3 align="center">
-  Full-stack Developer | React & Spring Boot
-</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Hu%E1%BB%B3nh+Anh+Khoa;FullStack+developer)](https://git.io/typing-svg)
 
 <p align="center">
   I build modern, responsive web applications with a strong focus on
